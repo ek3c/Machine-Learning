@@ -1,4 +1,4 @@
-# Stat131
+# Machine learning
  Machine learning with wine dataset
  
  Brief Introdution about this model building project
